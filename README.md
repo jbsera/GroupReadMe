@@ -1,5 +1,4 @@
 # GroupReadMe
-sofia-branch
 
 v-sofiabarry
 Sofia Barry
