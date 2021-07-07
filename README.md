@@ -1,17 +1,9 @@
 # GroupReadMe
-sofia-branch
 
-v-sofiabarry
-Sofia Barry
-
-JoyBranch
-
-
-
+Sofia Barry: v-sofiabarry
 
 Joy Bhattacharya: v-joybh@microsoft.com
 
-v-jacnguyen@microsoft.com Jacob Nguyen
-v-morydiaby
-main
-main
+Jacob Nguyen: v-jacnguyen@microsoft.com 
+
+Moru Diaby: v-morydiaby
